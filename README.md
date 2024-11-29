@@ -1,8 +1,8 @@
 ## PROJECT UJIAN TENGAH SEMESTER
 ## SISTEM INFORMASI GEOGRAFIS (SIG)
-### TEKNIK INFORMATIKA
+## TEKNIK INFORMATIKA
 
-Disusun oleh :
-Nuzurwan Patri Arja (0110221230)
-Fauziyyah Annisah (0110221224)
-Haniefa Aulia Rahma (0110221216)
+#### Disusun oleh :
+#### Nuzurwan Patri Arja (0110221230)
+#### Fauziyyah Annisah (0110221224)
+#### Haniefa Aulia Rahma (0110221216)
