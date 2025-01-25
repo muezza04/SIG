@@ -10,7 +10,7 @@
             <a href="/" class="hover:text-gray-300">Home</a>
             <a href="/alltematik" class="hover:text-gray-300">Tematik</a>
             <a href="/about" class="hover:text-gray-300">About</a>
-            
+            <a href="/adminControl/login" class="hover:text-gray-300">Admin</a>
         </nav>
 
         <!-- Hamburger Menu for Mobile -->
@@ -27,6 +27,7 @@
             <li><a href="/" class="block hover:text-gray-300">Home</a></li>
             <li><a href="/alltematik" class="block hover:text-gray-300">Tematik</a></li>
             <li><a href="/about" class="block hover:text-gray-300">About</a></li>
+            <li><a href="/adminControl/login" class="block hover:text-gray-300">Admin</a></li>
         </ul>
     </nav>
 </header>
