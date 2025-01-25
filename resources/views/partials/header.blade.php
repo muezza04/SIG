@@ -1,12 +1,12 @@
 <header class="bg-blue-500 text-white shadow">
-    <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+    <div class="container mx-auto px-4 py-4 flex justify-between items-center">
         <!-- Logo -->
         <a href="/" class="text-2xl font-bold">
             Bogor Kota
         </a>
 
         <!-- Navigation for Desktop -->
-        <nav class="hidden md:flex space-x-6">
+        <nav class="hidden md:flex space-x-7">
             <a href="/" class="hover:text-gray-300">Home</a>
             <a href="/alltematik" class="hover:text-gray-300">Tematik</a>
             <a href="/about" class="hover:text-gray-300">About</a>
