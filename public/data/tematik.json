@@ -1,0 +1,155 @@
+{
+    "status": "success",
+    "data": {
+      "kecamatan": {
+        "title": "Peta Tematik Kecamatan Kota Bogor",
+        "desk": "Kota Bogor, yang dikenal sebagai Kota Hujan karena curah hujannya yang tinggi sepanjang tahun, adalah bagian dari metropolitan Jabodetabek. Dengan luas wilayah 118,50 km² yang terbagi dalam enam kecamatan (Bogor Barat, Selatan, Utara, Tengah, Timur, dan Tanah Sareal), kota ini memiliki populasi sekitar 1,2 juta jiwa. Lokasi strategisnya menjadikannya pusat ekonomi, pendidikan, dan pemerintahan yang terhubung dengan kota-kota besar di sekitarnya. Kondisi geografis dan lingkungan Kota Bogor mendukung pengembangan sektor pertanian, khususnya tanaman biofarmaka, yang meliputi tanaman obat bernilai ekonomi tinggi. Persebaran produksi biofarmaka dipengaruhi oleh karakteristik demografi, lingkungan, dan partisipasi masyarakat di setiap kecamatan, menjadikannya salah satu komoditas unggulan Kota Bogor."
+      },
+      "luas_wilayah": {
+        "title": "Peta Tematik Luas Wilayah Kecamatan Kota Bogor",
+        "desk": "Kota Bogor memiliki luas wilayah sekitar 118,50 km², terbagi menjadi enam kecamatan: Bogor Barat, Bogor Selatan, Bogor Utara, Bogor Tengah, Bogor Timur, dan Tanah Sareal. Setiap kecamatan memiliki karakteristik geografis yang beragam, mendukung aktivitas ekonomi, sosial, serta pengembangan sektor potensial seperti pertanian, pemukiman, dan budidaya tanaman biofarmaka.",
+        "unit": "km²",
+        "features": [
+          {
+            "kecamatan": "Bogor Selatan",
+            "luas_wilayah": 30.50
+          },
+          {
+            "kecamatan": "Bogor Timur",
+            "luas_wilayah": 10.46
+          },
+          {
+            "kecamatan": "Bogor Utara",
+            "luas_wilayah": 18.14
+          },
+          {
+            "kecamatan": "Bogor Tengah",
+            "luas_wilayah": 8.37
+          },
+          {
+            "kecamatan": "Bogor Barat",
+            "luas_wilayah": 23.32
+          },
+          {
+            "kecamatan": "Tanah Sareal",
+            "luas_wilayah": 20.60
+          }
+        ]
+      },
+      "populasi": {
+        "title": "Data Populasi Penduduk Kecamatan Kota Bogor",
+        "desk": "Kota Bogor memiliki populasi sekitar 1,2 juta jiwa pada tahun 2024, tersebar di enam kecamatan: Bogor Barat, Bogor Selatan, Bogor Utara, Bogor Tengah, Bogor Timur, dan Tanah Sareal. Sebagai salah satu kota strategis di Jabodetabek, dinamika demografi Kota Bogor menjadi faktor penting dalam perencanaan pembangunan, pengelolaan sumber daya, dan pengembangan sektor unggulan, termasuk pertanian dan budidaya tanaman biofarmaka. Distribusi penduduk yang bervariasi di setiap kecamatan mencerminkan karakteristik wilayah yang beragam dan potensi ekonomi yang dapat dimaksimalkan.",
+        "unit": "jiwa",
+        "features": [
+            {
+            "kecamatan": "Bogor Selatan",
+            "populasi": 210552
+            },
+            {
+            "kecamatan": "Bogor Timur",
+            "populasi": 106884
+            },
+            {
+            "kecamatan": "Bogor Utara",
+            "populasi": 191223
+            },
+            {
+            "kecamatan": "Bogor Tengah",
+            "populasi": 96001
+            },
+            {
+            "kecamatan": "Bogor Barat",
+            "populasi": 239980
+            },
+            {
+            "kecamatan": "Tanah Sareal",
+            "populasi": 226079
+            }
+        ]
+      },
+      "kepadatan_penduduk": {
+        "title": "Peta Tematik Kepadatan Penduduk Kecamatan Kota Bogor",
+        "desk": "Kepadatan penduduk di enam kecamatan Kota Bogor, yaitu Bogor Barat, Bogor Selatan, Bogor Utara, Bogor Tengah, Bogor Timur, dan Tanah Sareal, memberikan gambaran persebaran populasi yang bervariasi. Kecamatan dengan karakteristik lebih urban, seperti Bogor Tengah dan Tanah Sareal, cenderung memiliki tingkat kepadatan lebih tinggi dibandingkan kecamatan dengan karakteristik rural. Dengan menghitung kepadatan berdasarkan luas wilayah dan populasi, data ini menjadi acuan penting untuk perencanaan pembangunan, alokasi sumber daya, dan pengelolaan wilayah secara optimal.",
+        "unit": "jiwa/km²",
+        "features": [
+          {
+            "kecamatan": "Bogor Selatan",
+            "kepadatan_penduduk": 6902.892
+          },
+          {
+            "kecamatan": "Bogor Timur",
+            "kepadatan_penduduk": 10214.450
+          },
+          {
+            "kecamatan": "Bogor Utara",
+            "kepadatan_penduduk": 10543.254
+          },
+          {
+            "kecamatan": "Bogor Tengah",
+            "kepadatan_penduduk": 11475.137
+          },
+          {
+            "kecamatan": "Bogor Barat",
+            "kepadatan_penduduk": 10292.944
+          },
+          {
+            "kecamatan": "Tanah Sareal",
+            "kepadatan_penduduk": 10974.709
+          }
+        ]
+      },
+      "produksi_biofarmaka": {
+        "title": "Peta Tematik Produksi Tanaman Biofarmaka Kecamatan Kota Bogor",
+        "desk_jahe": "Kota Bogor memiliki potensi besar dalam budidaya tanaman biofarmaka, seperti jahe, jeruk nipis, kencur, dan kunyit, berkat iklim yang mendukung dan tanah subur. Produksi tanaman ini tersebar di enam kecamatan: Bogor Barat, Bogor Selatan, Bogor Utara, Bogor Tengah, Bogor Timur, dan Tanah Sareal, dengan kontribusi yang bervariasi berdasarkan luas lahan, intensitas budidaya, serta dukungan teknologi. Jahe menjadi salah satu komoditas unggulan dengan permintaan tinggi, didukung oleh kecamatan yang memiliki lahan luas dan akses irigasi yang baik.",
+        "desk_jeruk": "Jeruk nipis umumnya dibudidayakan di wilayah dengan kondisi tanah yang sedikit asam dan memiliki intensitas cahaya matahari yang cukup. Kecamatan tertentu di Kota Bogor menjadi pusat produksi jeruk nipis untuk kebutuhan pasar lokal dan regional. Berikut ini peta persebaran produksi jeruk nipis di setiap wilayah (kg).",
+        "desk_kunyit": "Kunyit merupakan salah satu tanaman biofarmaka yang cukup populer, dengan permintaan yang terus meningkat baik untuk kebutuhan rumah tangga maupun industri obat herbal. Kecamatan tertentu di Kota Bogor dikenal sebagai sentra produksi kunyit yang mendukung kebutuhan pasar. Berikut ini peta persebaran produksi kunyit di setiap wilayah (kg).",
+        "desk_kencur": "Kencur memiliki nilai ekonomi yang tinggi. Produksi kencur di Kota Bogor tersebar merata, dengan beberapa kecamatan yang memiliki kontribusi signifikan karena dukungan ekosistem pertanian yang baik. Berikut ini merupakan peta persebaran produksi kencur di setiap wilayah (kg).",
+        "unit": "kg",
+        "features": [
+          {
+            "kecamatan": "Bogor Selatan",
+            "jahe": 3300.000,
+            "jeruk_nipis": 2500.000,
+            "kunyit": 2520.000,
+            "kencur": 1553.000
+          },
+          {
+            "kecamatan": "Bogor Timur",
+            "jahe": 1665.000,
+            "jeruk_nipis": 1000.000,
+            "kunyit": 1820.000,
+            "kencur": 1150.000
+          },
+          {
+            "kecamatan": "Bogor Utara",
+            "jahe": 2313.000,
+            "jeruk_nipis": 500.000,
+            "kunyit": 1148.000,
+            "kencur": 1231.000
+          },
+          {
+            "kecamatan": "Bogor Tengah",
+            "jahe": 1295.000,
+            "jeruk_nipis": 0,
+            "kunyit": 1260.000,
+            "kencur": 690.000
+          },
+          {
+            "kecamatan": "Bogor Barat",
+            "jahe": 6105.000,
+            "jeruk_nipis": 1000.000,
+            "kunyit": 1540.000,
+            "kencur": 1150.000
+          },
+          {
+            "kecamatan": "Tanah Sareal",
+            "jahe": 3330.000,
+            "jeruk_nipis": 1000.000,
+            "kunyit": 1820.000,
+            "kencur": 230.000
+          }
+        ]
+      }
+    }
+  }
+  
