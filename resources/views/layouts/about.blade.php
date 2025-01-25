@@ -24,7 +24,7 @@
 
             <!-- Team Member 3 -->
             <div class="bg-white shadow-lg rounded-lg p-6 text-center">
-            <img src="{{ asset('images/nuzu.jpg') }}" alt="Your Photo" class="w-72 h-80 rounded-lg mx-auto mb-4">
+            <img src="{{ asset('images/hani.jpeg') }}" alt="Your Photo" class="w-72 h-80 rounded-lg mx-auto mb-4">
                 <h3 class="text-lg font-semibold text-blue-700">Haniefa Aulia Rahma</h3>
                 <p class="text-gray-700 text-sm mt-2">Data Analyst / All Task</p>
             </div>
